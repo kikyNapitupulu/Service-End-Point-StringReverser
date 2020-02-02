@@ -1,8 +1,10 @@
 # SOAP Service Sum Them All
 
-Deskripsi:
+# Deskripsi:
 Service ini memberikan fungsionalitas untuk menghitung jumlah dari dua bilang.
-Parameter:
+
+# Parameter:
 Parameter yang diberikan adalah sebuah array
-Return:
+
+# Return:
 Service menghasilkan sebuah numerical value
